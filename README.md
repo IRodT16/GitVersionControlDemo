@@ -1,3 +1,3 @@
 # GitVersionControlDemo
 
-Some descriiption of the app.
+Some descriiption of the app!
