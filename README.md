@@ -3,6 +3,12 @@
 Some descriiption of the app!
 Looking for new commits!
 
-## Subheader here
+Some text here...
 
-More text here for the tutorial.
+## Subheader her
+
+Watching this stuff on a video....
+
+## Local Development
+
+1. Open index.html in your browser
